@@ -1,6 +1,6 @@
 PROBLEMA: Generatore di password con nome, cognome, colore preferito e 21
 SOLUZIONE:
-1- inizio: Dichiarare 4 variabili con la funzione prompt;
+1- INIZIO: Dichiarare 4 variabili con la funzione prompt;
     1.1 Nome;
     1.2 Cognome;
     1.3 Colore preferito;
